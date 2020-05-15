@@ -1,0 +1,51 @@
+Rank,Mountain,Height in m,Height in ft,Range,Promience,Latitude,Longitude,State
+1,"		K2	        ",8611,"	28251","	Himalayas	        ","4020	",35.879983,76.515091,"	UioTrritoryofLadakh"
+2,"Kangchenjunga	",8611,"	28169","	Himalayas	        ","3922	",27.702189,88.147768,"	Sikkim"
+2,Nanda Devi,7816,"	25643","	Garhwal Himalaya	","3139	",30.376215,79.970594,"	Uttarakhad"
+3,Kamet,7756,"	25446","	Garhwal Himalaya	","2826	",30.919629,79.590398," 	Uttarakhad"
+4,Saltoro Kangri,7742,"	25400","	Saltoro Karakoram       ","2160	",35.39961,76.846392," 	Ladakh"
+5,Saser kangri,7672,"	25171","	Sasr Karakoram	        ","2304	",34.867357,77.751267,"	Ladakh"
+6,Momostong Kangri,7516,"	24659","	Rimo Karakoram	        ","1803	",35.141579,77.581534,"	Ladakh"
+7,Saser kangri 2,7513,"	24649","	Sasr Karakoram	        ","1450	",34.4817,77.4824,"	Ladakh"
+8,Saser Kangri 3,7495,"	24590","	Sasr Karakoram	        ","850	",34.5044,77.4706,"	Ladakh"
+9,Teram kangri,7462,"	24482","	Siach Karakoram       ","1702	",35.3448,77.0442,"	Ladakh"
+10,Jonngsong Peak,7462,"	24482","	Kagchjuga Himalaya  ","1298	",27.5254,88.0809,"	Sikkim"
+12,"		K12	       ",7628,"	24370","	Saltoro Karakoram       ","1978	",35.1745,77.012,"	Ladakh"
+13,Kabru N,7412,"	24318","	Kagchjuga Himalaya	","780	",27.3802,88.07,"	Sikkim"
+14,Ghent Kangri,7401,"	24281","	Saltoro Karakoram	","1493	",35.3104,76.4802,"	Ladakh"
+15,Rimo 1,7385,"	24229","	RimoKara koram	        ","1438	",35.2118,77.2208,"	Ladakh"
+16,Teram Kangri 3,7382,"	24219","	Siach Karakoram	","520	",35.3559,77.0253,"	Ladakh"
+17,Kirat Chulli,7362,"	24153","	Kagchjuga Himalaya	","1168	",27.4716,88.1143,"	Sikkim"
+18,Mana Peak,7272,"	23858","	Garhwal Himalaya	","730	",30.525,79.3655,"	Uttarakhad"
+19,"		Apsaras Kagri	",7245,"	23770","	Siach Karakoram	","635	",35.3219,77.0855,"	Ladakh"
+20,"		Muut Parbat	",7242,"	23760","	Garhwal Himalaya	","840	",30.5657,79.3412,"	Uttarakhad"
+21,Rimo 3,7233,"	23730","	Rimo Karakoram	        ","615	",35.2231,77.2142,"	Ladakh"
+22,Singhi Kangri,7202,"	23629","	Siach Karakoram	","790	",35.3559,76.5901,"	Ladakh"
+23,Hardeol,7161,"	23494","	Garhwal Himalaya	","1291	",30.34,80.01, Uttarakhad
+24,Badrinath Peak,7138,"	23418","	Garhwal Himalaya	","1594	",30.4453,79.1719,"	Uttarakhad"
+25,Nun-Kun,7135,"	23408","	Zaskar Himalaya	","2404	",33.59,76.01,Ladakh
+26,Pauhunri,7128,"	23385","	Sikkim Himalaya	        ","2035	",27.57,88.51,Sikkim
+27,"		Pathibhara ",7123,"	23369","	Kagchjuga Himalaya	","900	",27.49,88.1,Sikkim
+28,"		Tris1	      ",7120,"	23359","	Garhwal Himalaya	","1616	",30.1857,79.4636,"	Uttarakhad"
+29,Satopanth,7075,"	23212","	Garhwal Himalaya	","1250	",30.5045,79.1248,Uttarakhad
+30,"		Tirsuli	        ",7074,"	23209","	Garhwal Himalaya	","674	",30.35,80.01,Uttarakhad
+31,Chong Kumdang Ri,7071,"	23199","	Rimo Karakoram	        ","851	",35.12,77.35,Ladakh
+32,Dunagiri,7066,"	23182","	Garhwal Himalaya	","1346	",30.3055,79.5156,"	Uttarakhad"
+33,Kangto,7060,"	23163","	Assam Himalaya	        ","2195	",27.5157,92.3153,"	Aruachal Pradsh"
+34,Nyegyi kansang,7047,"	23120","	Assam Himalaya	        ","1752	",27.56,92.4,Aruachal Pradsh
+35,Padmanabh,7030,"	23064","	Rimo Karakoram	        ","870	",35.26,77.11,Ladakh
+36,"		Shu Tsmpa	",7024,"	23045","	Sikkim Himalaya	        ","524	",27.56,88.52,Sikkim
+37,Chamshen kangri,7017,"	23022","	Sasr Karakoram    	","657	",34.53,77.48,Ladakh
+38,"		AqTash	        ",7016,"	23018","	Rimo Karakoram	        ","1176	",35.05,77.38,Ladakh
+39,Chong Kumdang Ri,7004,"	22979","	Rimo Karakoram	        ","624	",35.12,77.32,Ladakh
+40,Rishi phar,6992,"	22940","	Garhwal Himalaya	","622	",30.3157,79.5952,"	Uttarakhad"
+41,Thalay sagar,6984,"	22913","	Garhwal Himalaya	","1004	",30.5136,78.5945,"	Uttarakhad"
+42,Mount Lakshmi,6983,"	22910","	Rimo Karakoram	        ","800	",35.27,77.1,Ladakh
+43,Kedarnath Main,6968,"	22769","	Garhwal Himalaya	","1400	",30.475,79.0403,"	Uttarakhad"
+44,Langpo,6965,"	22851","	Sikkim Himalaya	        ","560	",27.5113,88.1147,"	Sikkim"
+45,Saraswati Peak,6940,"	22769","	Garhwal Himalaya	","900	",30.01,79.3,Uttarakhad
+46,Shahi kangri,6934,"	22749","	Ctral Tibta Platau	","1644	",35.1,77.5,Ladakh
+47,Sri Kailash,6932,"	22743","	Garhwal Himalaya	","1092	",31.0103,79.1039,"	Uttarakhad"
+48,Kalanka,6931,"	22739","	Garhwal Himalaya	","850	",30.308,79.562,"	Uttarakhad"
+49,Choten Nyima Ri,6927,"	22726","	Sikkim Himalaya	        ","807	",27.57,88.1042,"	Sikkim"
+50,Saf Minal,6911,"	22673","	Garhwal Himalaya	","531	",30.31,79.58,Uttarakhad
