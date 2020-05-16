@@ -3,7 +3,7 @@
 ### Pyhton can genrate webmaps which can be implimented into a website.Pyhton create webmaps with the help of Folium Library.It is based on Python's Django framework.
 
 
-## Repsitry contains - 
+## Repository contains - 
 1. `Pyhton_webmap.py`   -- This is pyhton code to genrate webpage which read csv files also.
 2. `indiatop50.csv`     -- This is database of india's top 50 toursim places which also conatins their geoloction(Latitude,Longitude).
 3. `mountains.csv`      -- This is database of first 50 height mountains in india with loaction coordinates.
