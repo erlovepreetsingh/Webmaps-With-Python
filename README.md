@@ -15,7 +15,7 @@
 2. **Folium** -- To install use command `pip install folium` in CMD
 
 ## Note - Python file and csv files should be in same folder to work. 
-## Note - For better understanding run code in VS Code or anything similar.
+## Note - For better understanding run code in VS Code or anything similar.If error occur in VS Code of no file found then first open the folder in VS Code.
 ## After running the script it genrates HTML webpage in the same directiory.
 
 ## CONTACT - www.electrocute.in
