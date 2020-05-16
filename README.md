@@ -1,6 +1,6 @@
 # Webmaps-With-Python
 
-### Pyhton can genrate webmaps which can be implimented into a website.Pyhton create webmaps with the help of Foliym Library.It is based on Python's Django framework.
+### Pyhton can genrate webmaps which can be implimented into a website.Pyhton create webmaps with the help of Folium Library.It is based on Python's Django framework.
 
 
 ## Repsitry contains - 
